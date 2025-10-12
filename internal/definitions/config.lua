@@ -35,10 +35,10 @@ local gui = {
             mode_line_h = 10,
         },
         fonts = {
-            feedback_main = { font_name, 18 },
-            feedback_key = { font_name, 18 },
-            feedback_arrow = { font_name, 20 },
-            feedback_folder = { font_name, 18, "b" },
+            feedback_main = { font_name, 12 },
+            feedback_key = { font_name, 12 },
+            feedback_arrow = { font_name, 12 },
+            feedback_folder = { font_name, 12, "b" },
         },
         colors = {
             visual_timeline = { 0.7, 0.8, 0.58, 1 },

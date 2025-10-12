@@ -3,7 +3,7 @@ local Theme = {}
 Theme.colors = {
   background = {64, 64, 64, 255},
   backgroundDark = {56, 56, 56, 255},
-  backgroundDarkest = {48, 48, 48, 255},
+  backgroundDarkest = {9, 9, 9, 255},
   elementBody = {96, 96, 96, 255},
   highlight = {64, 192, 64, 255},
   elementOutline = {32, 32, 32, 255},
@@ -22,8 +22,8 @@ local osFonts = {
     mono = "Andale Mono"
   },
   Linux = {
-    sans = "Liberation Sans",
-    mono = "Liberation Mono"
+    sans = "JetBrains Mono",
+    mono = "JetBrains Mono"
   }
 }
 
